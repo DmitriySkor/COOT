@@ -1,0 +1,476 @@
+@media (min-width: 1120px) and (max-width: 1200px){
+        .gov_services{
+        flex-direction: column;
+    }
+
+    .main_menu li a{
+        margin: 0 21px;
+    }
+
+
+
+}
+
+
+@media (min-width: 1024px) and (max-width: 1119px){
+    .gov_services{
+        flex-direction: column;
+    }
+
+    .main_menu li a{
+        margin: 0 21px;
+    }
+
+
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1023px){
+
+    .gov_services{
+        flex-direction: column;
+    }
+
+    .main_menu li a{
+        margin: 0 21px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px){
+
+    .header{
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .logo{
+        order:1;
+    }
+
+    .gov_services{
+        order: 3;
+    }
+
+    .header_contacts{
+        order:2;
+    }
+
+    .main_menu li a{
+        margin: 0 11px;
+        font-size: 15px;
+    }
+
+    .why_audit_section{
+        background: #037ab6 none;
+    }
+
+    .audit_desk_title{
+        font-size: 22px;
+    }
+
+    .audit_outsors_section{
+        background-image: none;
+        background-color: #037ab6;
+    }
+
+    .why_contactus_section{
+        background-image: none;
+        background-color: #037ab6;
+    }
+
+    .sout_advantage p{
+        font-size: 23px;
+    }
+
+    .why_sout_section,
+    .why_soutcont_section{
+        background-image: none;
+        background-color: #037ab6;
+    }
+}
+
+
+@media (min-width: 575px) and (max-width: 767px){
+    .gov_services{
+        display: none;
+    }
+
+    .logo{
+        margin-left: 0;
+    }
+
+    .header_contacts{
+        margin-right: 0;
+    }
+
+    .addr{
+        font-size: 14px;
+    }
+
+    .main_menu{
+        display: none;
+    }
+
+    .footer_services{
+        display: none;
+    }
+
+    .news{
+        margin-left: 0;
+    }
+
+    .controls_description_text{
+        margin-left: 0;
+    }
+
+    .control_heading_btn{
+        margin-top: 50px;
+        padding: 25px;
+    }
+
+    .heading_title{
+        margin-left: 0;
+        font-size: 35px;
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .safety_advantage{
+        margin-left: 50px;
+    }
+
+    .audit_for{
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+
+    .audit_for_title{
+        font-size: 20px;
+    }
+
+    .audit_for_list{
+        margin-bottom: 50px;
+    }
+
+    .why_audit_text p{
+        font-size: 20px;
+    }
+
+    .why_audit_section{
+        background: #037ab6 none;
+    }
+
+    .audit_desk_title{
+        font-size: 20px;
+    }
+
+    .audit_desk_text{
+        font-size: 16px;
+    }
+
+    .audit_outsors_section{
+        background-image: none;
+        background-color: #037ab6;
+    }
+
+    .audit_transfer_list {
+        font-size: 19px;
+    }
+
+    .why_contactus_section{
+        background-image: none;
+        background-color: #037ab6;
+    }
+
+    .why_contactus_text p{
+        font-size: 20px;
+    }
+
+    .sub_title{
+        font-size: 20px;
+        text-align: center;
+        margin-left: 0;
+        font-weight: 300;
+    }
+
+    .sout_advantage{
+        margin-left: 50px;
+    }
+
+    .why_sout_section,
+    .why_soutcont_section{
+        background-image: none;
+        background-color: #037ab6;
+    }
+
+
+
+
+
+}
+
+@media (min-width:0px) and (max-width: 574px){
+    .logo{
+        margin-left: 0;
+    }
+
+    .gov_services{
+        display: none;
+    }
+
+    .header{
+        flex-direction: column;
+    }
+
+    .header_contacts{
+        text-align: center;
+    }
+
+    .contacts_list{
+        text-align: center;
+    }
+
+    .main_menu{
+        display: none;
+    }
+
+    .footer_services{
+        display: none;
+    }
+
+    .footer{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .props{
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .footer_contacts{
+        text-align: center;
+        font-size: 15px;
+        margin-top: 15px;
+    }
+
+    .ftel{
+        font-size: 15px;
+    }
+
+    .copyright{
+        margin-top: 10px;
+    }
+
+    .news{
+        margin-left: 0;
+    }
+
+    .news_heading{
+        margin: 10px auto;
+        font-size: 29px;
+    }
+
+    .news_caption{
+        font-size: 25px;
+    }
+
+    .news_text{
+        font-size: 16px;
+    }
+
+    .news{
+        margin-left: 0;
+    }
+
+    .controls_description_text{
+        margin-left: 0;
+    }
+
+    .control_heading_btn{
+        margin-top: 50px;
+        padding: 13px;
+        font-size: 15px;
+        margin-bottom: 40px;
+    }
+
+    .heading_title{
+        margin-left: 0;
+        font-size: 20px;
+        text-align: center;
+        padding-top: 35px;
+    }
+
+    .controls_advantage{
+        margin-left: 0;
+    }
+
+    .controls_advantage p{
+        font-size: 20px;
+    }
+
+    .controls_description_btn{
+        font-size: 18px;
+        padding: 15px;
+    }
+
+    .safety_advantage{
+        margin-left: 0;
+    }
+
+    .safety_advantage p{
+        font-size: 20px;
+    }
+
+    .audit_for{
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+
+    .audit_for{
+        margin: 20px 0 20px 0;
+    }
+
+    .audit_for_list{
+        margin-bottom: 20px;
+    }
+
+    .why_audit_title{
+        font-size: 25px;
+        padding-top: 35px;
+        margin-bottom: 20px;
+    }
+
+    .why_audit_text p{
+        font-size: 18px;
+    }
+
+    .why_audit_btn{
+        font-size: 12px;
+    }
+
+    .why_audit_section{
+        background: #037ab6 none;
+    }
+
+    .audit_stage_item{
+        flex-direction: row;
+    }
+
+    .audit_item_number{
+        max-width: 50px;
+        max-height: 50px;
+    }
+
+    .audit_item_desk{
+        padding-left: 5px;
+    }
+
+    .audit_desk_title {
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    .audit_desk_text{
+        font-size: 16px;
+    }
+
+    .audit_report_list{
+        font-size: 16px;
+        padding-left: 10px;
+    }
+
+    .audit_report_btn{
+        padding: 15px 60px;
+        font-size: 18px;
+    }
+    .audit_outsors {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .audit_outsorse_title {
+        font-size: 25px;
+    }
+
+    .audit_outsors_text{
+        font-size: 17px;
+    }
+
+    .audit_outsors_section{
+        background-image: none;
+        background-color: #037ab6;
+    }
+
+    .audit_transfer_title{
+        font-size: 23px;
+        padding-top: 25px;
+        margin-bottom: 30px;
+    }
+
+    .audit_transfer_list p {
+        margin-bottom: 15px;
+        font-size: 20px;
+    }
+
+    .audit_transfer_list .fa-check{
+        font-size: 30px;
+    }
+
+    .why_contactus_text p{
+        font-size: 20px;
+    }
+
+    .audit_title {
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .sub_title{
+        font-size: 15px;
+        text-align: center;
+        margin-left: 0;
+        font-weight: 300;
+    }
+
+    .sout_advantage{
+        margin-left: 0px;
+    }
+
+    .sout_advantage p{
+        font-size:17px;
+    }
+
+    .audit_for_title{
+        font-size:21px;
+    }
+
+    .what_sout_text{
+        font-size: 16px;
+    }
+
+    .sout_text_boxed{
+        font-size: 16px;
+        padding: 15px;
+    }
+
+    .why_sout_section,
+    .why_soutcont_section{
+        background-image: none;
+        background-color: #037ab6;
+    }
+
+    .why_soutcont_text{
+        padding-bottom: 25px;
+    }
+
+
+
+
+
+}
