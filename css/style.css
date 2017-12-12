@@ -132,6 +132,7 @@ ul{
     font-size: 17px;
     font-weight: 300;
     margin: 0 37px;
+    transition:.5s;
 }
 
 .main_menu li:hover{
@@ -851,9 +852,11 @@ ul{
 .evaluate_stage {
     display: flex;
     flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
     width: 228px;
     height: 114px;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
     border-radius: 5px;
     background-color: #eae7e2;
     box-shadow: 0 0 30px rgba(0,0,0,0.5);
@@ -863,13 +866,6 @@ ul{
     background-color: #676d6f;
     color: #ffffff;
     font-size: 40px;
-    height: 100%;
-    align-items: center;
-    display: flex;
-    padding: 0 10px;
-    margin: 0;
-    border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
 }
 
 /*.stage1 .evaluate_item{*/
@@ -882,18 +878,16 @@ ul{
     /*max-height: 115px;*/
 /*}*/
 
-.evaluate_item{
-    padding: 0 0 0 15px;
-    font-size: 15px;
-    background-color: #eae7e2;
-    height:inherit;
-    display: flex;
-    align-items: center;
-    margin: 0;
-    line-height: 1.2;
-    border-bottom-right-radius: 5px;
-    border-top-right-radius: 5px;
-}
+/*.evaluate_item{*/
+    /*padding: 15px 25px 15px 10px;*/
+    /*font-size: 16px;*/
+    /*background-color: #eae7e2;*/
+    /*border-top-right-radius: 5px;*/
+    /*border-bottom-right-radius: 5px;*/
+    /*box-shadow: 0 0 30px rgba(0,0,0,0.5);*/
+    /*max-height: 115px;*/
+    /*max-width: 165px;*/
+/*}*/
 
 .evaluate_btn{
     min-width: 230px;
@@ -904,10 +898,11 @@ ul{
     color:#ffffff;
     border: 0;
     border-radius: 3px;
-    position: absolute;
-    top:251px;
 }
 
+.stage10 p{
+    padding: 29px 5px;
+}
 
 .evaluate_stage_list>.fa-angle-right {
     margin: 35px 20px 0 20px;
@@ -937,21 +932,8 @@ ul{
     color:#0172aa;
     position: absolute;
     left: -35px;
-    bottom: 237px;
+    bottom: 192px;
 }
-
-.stage1{ order:1;}
-.stage2{ order:2;}
-.stage3{ order:3;}
-.stage4{ order:4;}
-.stage5{ order:5;}
-.stage6{ order:6;}
-.stage7{ order:7;}
-.stage8{ order:8;}
-.stage9{ order:9;}
-.stage10{ order:10;}
-
-
 .why_soutcont_section {
     background: url("/img/why-soutcont-bg.png") no-repeat top center;
     }

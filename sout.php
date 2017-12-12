@@ -114,28 +114,28 @@
             <div class="evaluate_stage_list">
                 <div class="evaluate_stage stage1">
                     <p class="evaluate_number">1.</p>
-                    <p class="evaluate_item">
-                        Заявки на сайте по телефону:<br>
-                        +7(4852) 73-72-68
-                        +7(4852) 73-86-58
-                    </p>
+                    <ul class="evaluate_item">
+                        <li>Заявки на сайте<br> по телефону:</li>
+                        <li>+7(4852) 73-72-68</li>
+                        <li>+7(4852) 73-86-58</li>
+                    </ul>
                     <button class="evaluate_btn">Оставиить заявку</button>
                 </div>
-                <i class="fa fa-angle-right firstfa" aria-hidden="true"></i>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
                 <div class="evaluate_stage stage2">
                     <p class="evaluate_number">2.</p>
                     <p class="evaluate_item">
                         Консультация по подготовке документов для СОУТ
                     </p>
                 </div>
-                <i class="fa fa-angle-right seconfa" aria-hidden="true"></i>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
                 <div class="evaluate_stage stage3">
                     <p class="evaluate_number">3.</p>
                     <p class="evaluate_item">
                         Расчет и согласование цены
                     </p>
                 </div>
-                <i class="fa fa-angle-right thirdfa" aria-hidden="true"></i>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
                 <div class="evaluate_stage stage4">
                     <p class="evaluate_number">4.</p>
                     <p class="evaluate_item">
@@ -143,7 +143,6 @@
                     </p>
                 </div>
                 <i class="fa fa-share" aria-hidden="true"></i>
-                <i class="fa fa-angle-right fourfa" aria-hidden="true"></i>
                 <i class="fa fa-reply" aria-hidden="true"></i>
                 <div class="evaluate_stage stage5">
                     <p class="evaluate_number">8.</p>
@@ -151,21 +150,21 @@
                         Подготовка декларации рабочих мест
                     </p>
                 </div>
-                 <i class="fa fa-angle-left fifthfa" aria-hidden="true"></i>
+                 <i class="fa fa-angle-left" aria-hidden="true"></i>
                 <div class="evaluate_stage stage6">
                     <p class="evaluate_number">7.</p>
                     <p class="evaluate_item">
                         Оформление результатов СОУТ
                     </p>
                 </div>
-                 <i class="fa fa-angle-left sixfa" aria-hidden="true"></i>
+                 <i class="fa fa-angle-left" aria-hidden="true"></i>
                 <div class="evaluate_stage stage7">
                     <p class="evaluate_number">6.</p>
                     <p class="evaluate_item">
                         Отчет в ФГИС Росакредитация
                     </p>
                 </div>
-                 <i class="fa fa-angle-left sevenfa" aria-hidden="true"></i>
+                 <i class="fa fa-angle-left" aria-hidden="true"></i>
                 <div class="evaluate_stage stage8">
                     <p class="evaluate_number">5.</p>
                     <p class="evaluate_item">
@@ -178,7 +177,7 @@
                         Отчет в ФГИС Минтруд
                     </p>
                 </div>
-                <i class="fa fa-angle-right eightfa" aria-hidden="true"></i>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>
                 <div class="evaluate_stage stage10">
                     <p class="evaluate_number">10.</p>
                     <p class="evaluate_item">
