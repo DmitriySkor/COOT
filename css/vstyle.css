@@ -294,6 +294,7 @@ h2.home__section3_h2{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    justify-content: center;
 }
 
 .compensation h2{
@@ -309,6 +310,7 @@ h2.home__section3_h2{
 .compensation_block{
     width: 275px;
     display: flex;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -324,7 +326,7 @@ h2.home__section3_h2{
 
 .compensation_info_text_grey{
     height: 110px;
-    width: 100%;
+    width: 218px;
     background-color: #676d6f;
     padding: 10px 15px;
     border-radius: 4px;
