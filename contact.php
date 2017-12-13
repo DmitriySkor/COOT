@@ -24,8 +24,8 @@
                 </div>
                 <div class="col-md-12">
                     <h3 class="contact_form_h3">Задайте вопрос</h3>
-                    <p class="contact_form_p">Если у Вас остались вопросы, задавайте, специалист ответит
-                        наиболееудобным для Вас способом</p>
+                    <p class="contact_form_p">Если у Вас остались вопросы, задавайте, специалист ответит наиболее <br>удобным
+                        для Вас способом</p>
                 </div>
                 <div class="col-md-2"></div>
                 <div class="col-md-8">
@@ -45,7 +45,14 @@
                                       placeholder="Введите Ваш вопрос:"></textarea>
                         </div>
 
-                        <button type="submit" class="btn btn-primary">Отправить вопрос</button>
+                        <div class="form-row">
+                            <div class="form-group col-lg-6 col-md-12">
+                                <div class="g-recaptcha" data-sitekey="6Le52TwUAAAAACtPeDouq3FrEBvQK10R5Dv1gIUK"></div>
+                            </div>
+                            <div class="form-group col-lg-6 col-md-12">
+                                <button type="submit" class="contact1_button">Отправить вопрос</button>
+                            </div>
+                        </div>
                     </form>
                 </div>
                 <div class="col-md-2"></div>
@@ -53,7 +60,6 @@
         </div>
     </div>
     <div class="maps">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d897.472037900764!2d39.844548707299815!3d57.65596170617328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b291975ff085d7%3A0xae1db2706ff662ac!2z0L_RgC4g0J7QutGC0Y_QsdGA0Y8sIDg4LCDQr9GA0L7RgdC70LDQstC70YwsINCv0YDQvtGB0LvQsNCy0YHQutCw0Y8g0L7QsdC7Liwg0KDQvtGB0YHQuNGPLCAxNTAwMDM!5e0!3m2!1sru!2sua!4v1513153789573"
-                width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="https://yandex.ru/map-widget/v1/-/CBagbJF8WD" width="100%" height="400" frameborder="0"></iframe>
     </div>
 <?php include_once "footer.php"; ?>
