@@ -852,42 +852,30 @@ ul{
 .evaluate_stage {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    width: 228px;
-    height: 114px;
-    margin-bottom: 40px;
+    width: 229px;
+    height: 115px;
+    margin-bottom: 70px;
     border-radius: 5px;
     background-color: #eae7e2;
     box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    position: relative;
 }
 
 .evaluate_number{
     background-color: #676d6f;
     color: #ffffff;
     font-size: 40px;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
 }
 
-/*.stage1 .evaluate_item{*/
-    /*padding: 15px 25px 15px 10px;*/
-    /*font-size: 15px;*/
-    /*background-color: #eae7e2;*/
-    /*border-top-right-radius: 5px;*/
-    /*border-bottom-right-radius: 5px;*/
-    /*box-shadow: 0 0 30px rgba(0,0,0,0.5);*/
-    /*max-height: 115px;*/
-/*}*/
-
-/*.evaluate_item{*/
-    /*padding: 15px 25px 15px 10px;*/
-    /*font-size: 16px;*/
-    /*background-color: #eae7e2;*/
-    /*border-top-right-radius: 5px;*/
-    /*border-bottom-right-radius: 5px;*/
-    /*box-shadow: 0 0 30px rgba(0,0,0,0.5);*/
-    /*max-height: 115px;*/
-    /*max-width: 165px;*/
-/*}*/
+.evaluate_stage p{
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
 
 .evaluate_btn{
     min-width: 230px;
@@ -898,10 +886,8 @@ ul{
     color:#ffffff;
     border: 0;
     border-radius: 3px;
-}
-
-.stage10 p{
-    padding: 29px 5px;
+    position: absolute;
+    bottom: -47px;
 }
 
 .evaluate_stage_list>.fa-angle-right {

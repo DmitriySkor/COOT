@@ -21,6 +21,30 @@
         margin: 0 21px;
     }
 
+    .evaluate_stage_list{
+        justify-content: center;
+    }
+
+
+    .stage1{ order: 1}
+    .evaluate_stage_list .first_angle{order: 2}
+    .stage2{ order: 3}
+    .evaluate_stage_list .second_angle{order: 4}
+    .stage3{ order: 5}
+    .evaluate_stage_list .fourth_angle{
+        order: 6;
+        display: none;
+    }
+    .stage4{ order: 7}
+    .evaluate_stage_list .five_angle{order: 8}
+    .stage5{ order: 9}
+    .evaluate_stage_list .five_angle{order: 10}
+    /*.stage6{ order: };*/
+    /*.stage7{ order: };*/
+    /*.stage8{ order: };*/
+    /*.stage9{ order: };*/
+    /*.stage10{ order: };*/
+
 
 
 }
