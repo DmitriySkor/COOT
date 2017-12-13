@@ -100,7 +100,8 @@
                     При несчастном случае, повлекшего тяжкий вред или смерть сотруднику,
                     Вас привлекут к уголовной ответственности и назначат наказание в виде лишения свободы
                     от 1 года до 3-х лет. При предъявлении результатов и подтверждении соответствия условий
-                    труда на рабочем месте этого сотрудника обвинения с должностного лица будут сняты частично или полностью.
+                    труда на рабочем месте этого сотрудника обвинения с должностного лица будут сняты частично или
+                    полностью.
                 </p>
             </div>
         </div>
@@ -151,21 +152,21 @@
                         Подготовка декларации рабочих мест
                     </p>
                 </div>
-                 <i class="fa fa-angle-left five_angle" aria-hidden="true"></i>
+                <i class="fa fa-angle-left five_angle" aria-hidden="true"></i>
                 <div class="evaluate_stage stage6">
                     <p class="evaluate_number">7.</p>
                     <p class="evaluate_item">
                         Оформление результатов СОУТ
                     </p>
                 </div>
-                 <i class="fa fa-angle-left six_angle" aria-hidden="true"></i>
+                <i class="fa fa-angle-left six_angle" aria-hidden="true"></i>
                 <div class="evaluate_stage stage7">
                     <p class="evaluate_number">6.</p>
                     <p class="evaluate_item">
                         Отчет в ФГИС Росакредитация
                     </p>
                 </div>
-                 <i class="fa fa-angle-left seven_angle" aria-hidden="true"></i>
+                <i class="fa fa-angle-left seven_angle" aria-hidden="true"></i>
                 <div class="evaluate_stage stage8">
                     <p class="evaluate_number">5.</p>
                     <p class="evaluate_item">
@@ -190,6 +191,72 @@
     </div>
 </div>
 
+<div class="compensation">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Компенсация затрат на СОУТ<br>
+                    за счет ФСС</h2>
+                <p class="compensation_p">Каждая компания ежемесячно перечисляет в Фонд социального страхования
+                    определенный процент от фонда
+                    заработной платы организации. Это деньги аккумулируются на счетах Фонда и идут на компенсационные
+                    выплаты при несчастных случаях на производстве или при выявлении профессиональных заболеваний.
+                    Количество отчисляемых средств в Фонд Социального Страхования зависит от наличия (количества)
+                    вредных и опасных факторов в организации (ВФ и ОФ соответственно), т.е. в зависимости от «опасности»
+                    работ в ФСС могут поступать средства от 0,2 % до 8,5% (максимально возможный % отчислений)
+                    отчислений от фонда заработной платы.</p>
+            </div>
+            <div class="col-md-12">
+                <div class="compensation_info_cover">
+                    <div class="compensation_block">
+                        <div class="compensation_info_text">Подача пакета документов в отделение ФСС по месту
+                            регистрации предприятия
+                        </div>
+                        <div class="compensation_arrow"><img src="img/arrow_grey.png" alt="arrow_grey"></div>
+                    </div>
+
+                    <div class="compensation_block">
+                        <div class="compensation_info_text_grey">Заявление на возврат средств с указанием суммы</div>
+                        <div class="compensation_arrow"><img src="img/plus_grey.png" alt="plus_grey"></div>
+                    </div>
+
+                    <div class="compensation_block">
+                        <div class="compensation_info_text_grey">Копия расчетов<br>в форме 4 ФСС РФ</div>
+                        <div class="compensation_arrow"><img src="img/plus_grey.png" alt="plus_grey"></div>
+                    </div>
+
+                    <div class="compensation_block">
+                        <div class="compensation_info_text_grey">Копии документов, обосновывающихи подтверждающих
+                            правильность выплат
+                        </div>
+                        <div class="compensation_arrow"><img src="img/arrow_grey.png" alt="arrow_grey"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <p class="compensation_p_2"><strong>Важно!</strong> Заблоговременная подача заявления увеличивает
+                    шансы на возврат средств!</p>
+            </div>
+            <div class="col-md-12">
+                <div class="compensation_info_cover">
+                    <div class="compensation_block">
+                        <div class="compensation_info_text">
+                            Ожидание одобренияФонда Социального Страхования (ФСС)
+                        </div>
+                        <div class="compensation_arrow"><img src="img/arrow_grey.png" alt="arrow_grey"></div>
+                    </div>
+                    <div class="compensation_block_green">
+                        <div class="compensation_arrow_green"><i class="fa fa-check" aria-hidden="true"></i></div>
+                        <div class="compensation_block_green_text">
+                            Получение средств ФСС<br>и отражение полученной суммы<br>в отчетности
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="why_soutcont_section">
     <div class="container">
         <div class="why_soutcont">
@@ -202,7 +269,8 @@
                     Предварительно поможем в подготовке документов необходимых для начала работ;
                 </p>
                 <p><i class="fa fa-angle-double-right" aria-hidden="true"></i>
-                    Снизим класс условий труда в рамках законодательства для экономии фонда заработной платы организации;
+                    Снизим класс условий труда в рамках законодательства для экономии фонда заработной платы
+                    организации;
                 </p>
                 <p><i class="fa fa-angle-double-right" aria-hidden="true"></i>
                     Работаем по всей России;
