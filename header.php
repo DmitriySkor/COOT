@@ -55,7 +55,7 @@
             <li><a href="control.php">Произв. контроль</a></li>
             <li><a href="safety.php">Охрана труда</a></li>
             <li><a href="index.php">Новости</a></li>
-            <li><a href="#">О компании</a></li>
+            <li><a href="aboutus.php">О компании</a></li>
             <li><a href="contact.php" class="menu_kontacts">Контакты</a></li>
         </ul>
     </div>
