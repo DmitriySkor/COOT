@@ -1,0 +1,100 @@
+/*Development: Valentin Gorbatenko*/
+/*E-mail: v.gorbatenko@mail.ru*/
+/*Phone: +38 (066) 178-56-44*/
+/*Site: https://vk.com/gorbatenko1984*/
+
+
+/*Главная страница*/
+.home__section1{
+    background-image: url(../img/home_s1_bg.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    padding: 64px 0 100px;
+}
+
+.home__section1__img img{
+    max-width: 518px;
+    width: 100%;
+    height: auto;
+}
+
+h2.home__section_h2 {
+    font-size: 26px;
+}
+
+.home__section1__info p {
+    text-align: justify;
+}
+
+a.button_orange{
+    display: block;
+    width: 192px;
+    background-color: #fe9703;
+    margin-bottom: 15px;
+    padding: 10px 10px 10px 40px;
+    border-radius: 3px;
+    font-size: 16px;
+    color: white;
+    transition: .5s;
+    float: right;
+}
+
+a.button_orange:hover{
+    background-color: #006699;
+    text-decoration: none;
+    transition: .5s;
+}
+
+a.button_orange span{
+    margin-right: 5px;
+    transition: .5s;
+}
+
+/*a.button_orange span:hover{*/
+    /*margin-right: 25px;*/
+    /*transition: .5s;*/
+/*}*/
+
+
+.home__section2{
+    background-image: url(../img/home_s2_bg.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    padding: 64px 0 100px;
+}
+
+
+.home__section3{
+    padding: 45px 0;
+}
+
+h2.home__section3_h2{
+    text-align: center;
+}
+
+.our_clients_cover{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.our_clients{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Страница контакты*/
+.contact_cover{
+    background-image: url(../img/contact_bg.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    padding: 140px 0 40px;
+}

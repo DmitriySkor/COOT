@@ -132,6 +132,7 @@ ul{
     font-size: 17px;
     font-weight: 300;
     margin: 0 37px;
+    transition:.5s;
 }
 
 .main_menu li:hover{

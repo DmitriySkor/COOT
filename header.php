@@ -5,10 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/media.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="fonts/lato/stylesheet.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/vstyle.css">
+    <link rel="stylesheet" href="css/media.css">
 </head>
 <body>
 <!-- HEADER -->
@@ -47,13 +48,13 @@
 <div class="menu_section">
     <div class="container">
         <ul class="main_menu">
-            <li><a href="#">Главная</a></li>
+            <li><a href="home.php">Главная</a></li>
             <li><a href="sout.php" class="menu_upper">Соут</a></li>
             <li><a href="control.php">Произв. контроль</a></li>
             <li><a href="safety.php">Охрана труда</a></li>
             <li><a href="index.php">Новости</a></li>
             <li><a href="#">О компании</a></li>
-            <li><a href="#" class="menu_kontacts">Контакты</a></li>
+            <li><a href="contact.php" class="menu_kontacts">Контакты</a></li>
         </ul>
     </div>
 </div>
