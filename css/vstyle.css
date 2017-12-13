@@ -282,3 +282,83 @@ h2.home__section3_h2{
     font-size: 15px;
     font-weight: 700;
 }
+
+/*страница sout //compensation */
+
+.compensation{
+    padding: 70px 0;
+    background-color: #eae7e2;
+}
+
+.compensation_info_cover{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.compensation h2{
+    text-align: center;
+}
+
+.compensation_p{
+    text-align: justify;
+    font-size: 20px;
+    margin: 40px 0 70px;
+}
+
+.compensation_block{
+    width: 275px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.compensation_info_text{
+    height: 110px;
+    background-color: #006699;
+    padding: 10px 15px;
+    border-radius: 4px;
+    color: white;
+    margin: 5px;
+    font-size: 15px;
+}
+
+.compensation_info_text_grey{
+    height: 110px;
+    width: 218px;
+    background-color: #676d6f;
+    padding: 10px 15px;
+    border-radius: 4px;
+    color: white;
+    margin: 5px;
+    font-size: 15px;
+}
+
+.arrow img{
+    width: 47px;
+    height: 55px;
+}
+
+.compensation_p_2{
+    text-align: center;
+}
+
+.compensation_block_green{
+    height: 110px;
+    background-color: #52ac62;
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+.compensation_arrow_green{
+    font-size: 48px;
+    color: #ffffff;padding: 0 15px;
+}
+
+.compensation_block_green_text{
+    padding: 0 15px 0 0 ;
+    color: #ffffff;
+}
