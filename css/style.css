@@ -875,6 +875,8 @@ ul{
     display: flex;
     align-items: center;
     padding-left: 15px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
 }
 
 .evaluate_btn{
@@ -888,6 +890,12 @@ ul{
     border-radius: 3px;
     position: absolute;
     bottom: -47px;
+    cursor: pointer;
+}
+
+.evaluate_btn:hover{
+    background-color: #e48804;
+    transition: .5s;
 }
 
 .fourth_angle{
@@ -921,8 +929,8 @@ ul{
     font-size: 35px;
     color:#0172aa;
     position: absolute;
-    left: -35px;
-    bottom: 192px;
+    left: -26px;
+    bottom: 213px;
 }
 .why_soutcont_section {
     background: url("/img/why-soutcont-bg.png") no-repeat top center;
