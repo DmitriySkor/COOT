@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/vstyle.css">
     <link rel="stylesheet" href="css/media.css">
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 <body>
 <!-- HEADER -->
