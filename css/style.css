@@ -890,6 +890,10 @@ ul{
     bottom: -47px;
 }
 
+.fourth_angle{
+    display: none;
+}
+
 .evaluate_stage_list>.fa-angle-right {
     margin: 35px 20px 0 20px;
     font-size: 45px;

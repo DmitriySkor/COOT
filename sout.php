@@ -119,7 +119,7 @@
                         +7(4852) 73-72-68
                         +7(4852) 73-86-58
                     </p>
-                    <button class="evaluate_btn">Оставиить заявку</button>
+                    <button class="evaluate_btn">Оставить заявку</button>
                 </div>
                 <i class="fa fa-angle-right first_angle" aria-hidden="true"></i>
                 <div class="evaluate_stage stage2">
@@ -165,7 +165,7 @@
                         Отчет в ФГИС Росакредитация
                     </p>
                 </div>
-                 <i class="fa fa-angle-left" aria-hidden="true"></i>
+                 <i class="fa fa-angle-left seven_angle" aria-hidden="true"></i>
                 <div class="evaluate_stage stage8">
                     <p class="evaluate_number">5.</p>
                     <p class="evaluate_item">
@@ -178,7 +178,7 @@
                         Отчет в ФГИС Минтруд
                     </p>
                 </div>
-                <i class="fa fa-angle-right" aria-hidden="true"></i>
+                <i class="fa fa-angle-right eight_angle" aria-hidden="true"></i>
                 <div class="evaluate_stage stage10">
                     <p class="evaluate_number">10.</p>
                     <p class="evaluate_item">
