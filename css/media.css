@@ -135,6 +135,71 @@
         margin: 0 21px;
     }
 
+    .evaluate_stage_list {
+        justify-content: center;
+    }
+
+    .evaluate_stage_list > .fa-angle-right {
+        display: none;
+    }
+
+    .evaluate_stage_list > .fa-angle-left {
+        display: none;
+    }
+
+    .evaluate_stage_list>.fa-share{
+        right: 65px;
+    }
+
+    .evaluate_stage_list>.fa-reply{
+        left: 16px;
+        bottom: 399px;
+    }
+
+    .evaluate_stage {
+        margin-right: 50px;
+    }
+
+    .stage1 {
+        order: 1;
+    }
+
+    .stage2 {
+        order: 2;
+    }
+
+    .stage3 {
+        order: 3;
+    }
+
+    .stage4 {
+        order: 7;
+    }
+
+    .stage5 {
+        order: 8;
+    }
+
+    .stage6 {
+        order: 7;
+    }
+
+    .stage7 {
+        order: 4;
+    }
+
+    .stage8 {
+        order: 6;
+    }
+
+    .stage9 {
+        order: 9;
+    }
+
+    .stage10 {
+        order: 10
+    }
+
 
 }
 

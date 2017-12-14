@@ -15,14 +15,15 @@
                 <div class="home__section1__info">
                     <h2 class="home__section_h2">Специальная оценка условий труда (СОУТ) и производственный
                         контроль</h2>
-                    <p>Lorem ipsum fugiat nam officia voluptas dolor sit amet, consectetur adipisicing elit. Ab architecto asperiores cupiditate
-                        debitis delectus deleniti fugiat nam officia voluptas dignissimos ex hic itaque labore maxime obcaecati odio officiis,
-                        praesentium rerum soluta tempore voluptas. Ad fugiat nam officia voluptas modi neque officiis porro vitae. Ea inventore
-                        nobis recusandae sapiente vero. A accusamus alias blanditiis dolore fugiat inventore perferendis
-                        quidem quod fugiat nam officia fugiat nam officia voluptas voluptas totam? Commodi doloribus expedita fugiat nam officia voluptas! Ad consequuntur
-                        delectus dignissimos enim, est eveniet, explicabo facere id illo magni modi necessitatibus fugiat nam officia voluptas nihil
-                        odit optio perferendis quo ratione, repellat rerum sit vel? Nisi obcaecati suscipit voluptates!
-                        Asperiores, beatae in!</p>
+                    <p>Согласно Федеральному закону от 28 декабря 2013 г. № 426-ФЗ «О специальной оценке условий труда»,
+                        который вступил в силу с 2014 года, используемая ранее аттестация рабочих мест была заменена
+                        такой процедурой, как специальная оценка условий труда. СОУТ имеет целый ряд существенных
+                        отличий от аттестации и кроме того, в нее включен целый ряд совершенно новых понятий, подробно
+                        описанных в упомянутом выше законе. Именно они должны сегодня использоваться при проведении
+                        специальной оценки условий труда, которая дает возможность выявить вредные и опасные факторы
+                        для сотрудников промышленных предприятий и иных компаний, а также оценить качество организации
+                        надлежащих условий для выполнения тех или иных должностных обязанностей.
+                    </p>
                     <a class="button_orange" href="#"><span>Подробнее</span> <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
             </div>
@@ -35,12 +36,13 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="home__section1__info">
-                    <h2 class="home__section_h2">Аутсорсинг и аудит очраны труда</h2>
-                    <p>Lorem ipsum fugiat nam officia voluptas dolor sit amet, consectetur adipisicing elit. Ab architecto asperiores cupiditate
-                        debitis delectus deleniti fugiat nam officia voluptas dignissimos ex hic itaque labore maxime obcaecati odio officiis,
-                        praesentium rerum soluta tempore voluptas. Ad fugiat nam officia voluptas modi neque officiis porro vitae. Ea inventore
-                        odit optio perferendis quo ratione, repellat rerum sit vel? Nisi obcaecati suscipit voluptates!
-                        Asperiores, beatae in!</p>
+                    <h2 class="home__section_h2">Аутсорсинг и аудит охраны труда</h2>
+                    <p>Аутсорсинг охраны труда - выполнение функций специалиста по охране труда сторонней организацией.
+                        Передача функций (полностью или частично) выполняется на основании заключенного договора между
+                        Заказчиком и Организацией, специализирующейся на оказании услуг в сфере охраны труда.
+                        Аутсорсинг охраны труда позволяет более эффективно выполнять работу в области охраны труда и
+                        сократить нагрузку на бюджет Организации.
+                    </p>
                     <a class="button_orange" href="#"><span>Подробнее</span> <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
             </div>
