@@ -844,6 +844,15 @@
     .navbar-nav .nav-item:first-child{
         margin-top: 15px;
     }
+
+    .menu_ingredient_right_border {
+        background-image: none;
+
+    }
+
+    .our_clients_cover {
+        justify-content: center;
+    }
 }
 
 @media (min-width:0px) and (max-width: 1199px){
@@ -853,7 +862,8 @@
 }
 
 @media (min-width:992px) and (max-width: 5920px){
-    .navbar-brand{
+    .navbar-brand-1,
+    .cmn-toggle-switch{
         display: none;
     }
 }

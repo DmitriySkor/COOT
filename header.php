@@ -47,6 +47,7 @@
     </div>
 </div>
 <!-- END HEADER -->
+
 <!--<div class="menu_section">-->
 <!--    <div class="container">-->
 <!--        <div class="row">-->
@@ -65,18 +66,18 @@
 <!--    </div>-->
 <!--</div>-->
 
-
-
 <div class="menu_section">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <nav class="navbar navbar-expand-lg navbar-light ">
-                    <a class="navbar-brand" href="#">Меню</a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
+                    <a class="navbar-brand-1" href="index.php">Меню</a>
+<!--                    <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">-->
+<!--                        <span class="navbar-toggler-icon"></span>-->
+<!--                    </button>-->
+                    <button class="cmn-toggle-switch cmn-toggle-switch__htx" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span>toggle menu</span>
                     </button>
-
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mr-auto">
 
