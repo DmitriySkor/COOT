@@ -15,7 +15,7 @@
 }
 
 .home__section1__img img{
-    max-width: 518px;
+    max-width: 538px;
     width: 100%;
     height: auto;
 }
@@ -52,10 +52,10 @@ a.button_orange span{
     transition: .5s;
 }
 
-/*a.button_orange span:hover{*/
-    /*margin-right: 25px;*/
-    /*transition: .5s;*/
-/*}*/
+a.button_orange span:hover{
+    margin-right: 25px;
+    transition: .5s;
+}
 
 
 .home__section2{

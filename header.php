@@ -38,7 +38,6 @@
             <div class="header_contacts">
                 <ul class="contacts_list">
                     <li class="tel">+7(4852) 73-72-68</li>
-                    <li class="tel">+7(4852) 73-86-58</li>
                     <li class="addr">г. Ярославль, проспект Октября, дом 88, офис 102, пом. 2.</li>
                 </ul>
                 <button type="button" class="header_btn">Заказать звонок <span class="arrow"></button>
