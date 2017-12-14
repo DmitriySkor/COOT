@@ -46,16 +46,65 @@
     </div>
 </div>
 <!-- END HEADER -->
+
+<!--<div class="menu_section">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-md-12">-->
+<!--                <div class="main_menu">-->
+<!--                    <a class="menu_ingredient" href="home.php">Главная</a>-->
+<!--                    <a class="menu_ingredient menu_upper" href="sout.php">Соут</a>-->
+<!--                    <a class="menu_ingredient ebany_cl" href="control.php">Произв. контроль</a>-->
+<!--                    <a class="menu_ingredient" href="safety.php">Охрана труда</a>-->
+<!--                    <a class="menu_ingredient" href="index.php">Новости</a>-->
+<!--                    <a class="menu_ingredient" href="aboutus.php">О компании</a>-->
+<!--                    <a class="menu_ingredient menu_kontacts"href="contact.php">Контакты</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+
 <div class="menu_section">
     <div class="container">
-        <ul class="main_menu">
-            <li><a href="home.php">Главная</a></li>
-            <li><a href="sout.php" class="menu_upper">Соут</a></li>
-            <li><a href="control.php">Произв. контроль</a></li>
-            <li><a href="safety.php">Охрана труда</a></li>
-            <li><a href="index.php">Новости</a></li>
-            <li><a href="aboutus.php">О компании</a></li>
-            <li><a href="contact.php" class="menu_kontacts">Контакты</a></li>
-        </ul>
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="navbar navbar-expand-lg navbar-light ">
+                    <a class="navbar-brand-1" href="index.php">Меню</a>
+<!--                    <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">-->
+<!--                        <span class="navbar-toggler-icon"></span>-->
+<!--                    </button>-->
+                    <button class="cmn-toggle-switch cmn-toggle-switch__htx" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span>toggle menu</span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+
+                            <li class="nav-item">
+                                <a class="menu_ingredient menu_ingredient_right_border" href="home.php">Главная</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="menu_ingredient menu_ingredient_right_border menu_upper" href="sout.php">Соут</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="menu_ingredient menu_ingredient_right_border ebany_cl" href="control.php">Произв. контроль</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="menu_ingredient menu_ingredient_right_border ebany_cl2" href="safety.php">Охрана труда</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="menu_ingredient menu_ingredient_right_border" href="index.php">Новости</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="menu_ingredient menu_ingredient_right_border" href="aboutus.php">О компании</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="menu_ingredient menu_kontacts"href="contact.php">Контакты</a>
+                            </li>
+
+                    </div>
+                </nav>
+            </div>
+        </div>
     </div>
 </div>

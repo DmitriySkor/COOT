@@ -49,7 +49,6 @@
 
 }
 
-
 @media (min-width: 1024px) and (max-width: 1119px) {
     .gov_services {
         flex-direction: column;
@@ -125,7 +124,6 @@
         bottom: 397px;
     }
 }
-
 
 @media (min-width: 992px) and (max-width: 1023px){
 
@@ -204,7 +202,6 @@
 
 
 }
-
 
 @media (min-width: 768px) and (max-width: 991px){
 
@@ -322,7 +319,6 @@
         display: none;
     }
 }
-
 
 @media (min-width: 575px) and (max-width: 767px){
     .gov_services{
@@ -829,4 +825,45 @@
         display: none;
     }
 
+}
+
+
+
+
+/*Здесь идет  обратный порядок задания брекпоинтов*/
+
+@media (min-width:0px) and (max-width: 991px){
+    .main_menu{
+        flex-direction: column;
+    }
+
+    .menu_section {
+        padding: 15px 0;
+    }
+
+    .navbar-nav .nav-item:first-child{
+        margin-top: 15px;
+    }
+
+    .menu_ingredient_right_border {
+        background-image: none;
+
+    }
+
+    .our_clients_cover {
+        justify-content: center;
+    }
+}
+
+@media (min-width:0px) and (max-width: 1199px){
+    a.menu_ingredient {
+        font-size: 15px;
+    }
+}
+
+@media (min-width:992px) and (max-width: 5920px){
+    .navbar-brand-1,
+    .cmn-toggle-switch{
+        display: none;
+    }
 }
