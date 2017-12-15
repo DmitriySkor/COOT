@@ -14,7 +14,7 @@
 }
 
 .home__section1__img img {
-    max-width: 518px;
+    max-width: 538px;
     width: 100%;
     height: auto;
 }
@@ -51,10 +51,10 @@ a.button_orange span {
     transition: .5s;
 }
 
-/*a.button_orange span:hover{*/
-/*margin-right: 25px;*/
-/*transition: .5s;*/
-/*}*/
+a.button_orange span:hover{
+margin-right: 25px;
+transition: .5s;
+}
 
 .home__section2 {
     background-image: url(../img/home_s2_bg.png);
@@ -449,9 +449,9 @@ a.menu_ingredient:hover{
     text-indent: -9999px;
     -webkit-appearance: none;
     -moz-appearance: none;
-    appearance: none;
+    /*appearance: none;*/
     box-shadow: none;
-    border-radius: none;
+    /*border-radius: none;*/
     border: none;
     cursor: pointer;
     -webkit-transition: background 0.3s;
@@ -507,16 +507,16 @@ a.menu_ingredient:hover{
 }
 
 .cmn-toggle-switch__htx span {
-    -webkit-transition: background 0 0.3s;
-    transition: background 0 0.3s;
+    -webkit-transition: background 0s .3s;
+    transition: background 0s .3s;
 }
 
 .cmn-toggle-switch__htx span::before,
 .cmn-toggle-switch__htx span::after {
-    -webkit-transition-duration: 0.3s, 0.3s;
-    transition-duration: 0.3s, 0.3s;
-    -webkit-transition-delay: 0.3s, 0;
-    transition-delay: 0.3s, 0;
+    -webkit-transition-duration: .3s, .3s;
+    transition-duration: 0.3s, .3s;
+    -webkit-transition-delay: .3s, 0s;
+    transition-delay: .3s, 0s;
 }
 
 .cmn-toggle-switch__htx span::before {
@@ -554,6 +554,6 @@ a.menu_ingredient:hover{
 
 .cmn-toggle-switch__htx.active span::before,
 .cmn-toggle-switch__htx.active span::after {
-    -webkit-transition-delay: 0, 0.3s;
-    transition-delay: 0, 0.3s;
+    -webkit-transition-delay: 0s, .3s;
+    transition-delay: 0s, .3s;
 }
