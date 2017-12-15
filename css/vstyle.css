@@ -321,15 +321,20 @@ h2.home__section3_h2 {
     font-size: 15px;
 }
 
+.compensation_bottom{
+    font-size: 16px;
+    width: 194px;
+}
+
 .compensation_info_text_grey {
     height: 110px;
-    width: 218px;
+    width: 190px;
     background-color: #676d6f;
-    padding: 10px 15px;
+    padding: 8px 15px;
     border-radius: 4px;
     color: white;
     margin: 5px;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .arrow img {
@@ -370,7 +375,7 @@ h2.home__section3_h2 {
 
 a.menu_ingredient {
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 300;
     height: 100%;
     padding: 15px 0;
     color: white;

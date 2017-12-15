@@ -226,7 +226,7 @@
                     </div>
 
                     <div class="compensation_block">
-                        <div class="compensation_info_text_grey">Копии документов, обосновывающихи подтверждающих
+                        <div class="compensation_info_text_grey">Копии документов, обосновывающих и подтверждающих
                             правильность выплат
                         </div>
                         <div class="compensation_arrow"><img src="img/arrow_grey.png" alt="arrow_grey"></div>
@@ -240,8 +240,8 @@
             <div class="col-md-12">
                 <div class="compensation_info_cover">
                     <div class="compensation_block">
-                        <div class="compensation_info_text">
-                            Ожидание одобренияФонда Социального Страхования (ФСС)
+                        <div class="compensation_info_text compensation_bottom">
+                            Ожидание одобрения Фонда Социального Страхования (ФСС)
                         </div>
                         <div class="compensation_arrow"><img src="img/arrow_grey.png" alt="arrow_grey"></div>
                     </div>

@@ -107,7 +107,7 @@ ul{
 
 .menu_section{
     background-color: #006699;
-    border-bottom: 5px solid #eae7e2;
+    border-bottom: 3px solid #eae7e2;
 }
 
 .main_menu{
@@ -276,9 +276,9 @@ ul{
     font-size: 45px;
     text-transform: uppercase;
     font-weight: 700;
-    padding-top: 50px;
+    padding-top: 150px;
     margin-left: 75px;
-    margin-bottom: 5px;
+    margin-bottom: 35px;
     font-family: 'Lato', sans-serif;
 }
 
@@ -307,13 +307,13 @@ ul{
     text-transform: uppercase;
     padding: 20px 30px;
     border-radius: 4px;
-    margin-top: 35px;
-    margin-bottom: 45px;
+    margin-top: 80px;
+    margin-bottom: 100px;
     outline: none;
 }
 
 .control_heading_btn:hover{
-    background-color:#f39612;
+    background-color:#006699;
     transition: 0.5s;
     outline: none;
 }
@@ -338,8 +338,8 @@ ul{
 .controls_description_title{
     font-size: 30px;
     font-weight: 700;
-    margin-top: 40px;
-    margin-bottom: 25px;
+    margin-top: 60px;
+    margin-bottom: 40px;
     text-align: center;
 }
 
@@ -366,7 +366,8 @@ ul{
     text-transform: uppercase;
     padding: 20px 44px 20px 54px ;
     border-radius: 4px;
-    margin-bottom: 55px;
+    margin-top: 100px;
+    margin-bottom: 60px;
 }
 
 .controls_description_btn:hover{
@@ -475,7 +476,7 @@ ul{
     cursor: pointer;
     font-size: 20px;
     text-transform: uppercase;
-    padding: 20px 40px;
+    padding: 15px 40px;
     border-radius: 4px;
 }
 
@@ -486,7 +487,7 @@ ul{
 }
 
 .why_audit{
-    padding-bottom: 40px;
+    padding-bottom: 54px;
 }
 
 .audit_stage{
@@ -500,7 +501,7 @@ ul{
     font-size: 30px;
     font-weight: 700;
     text-align: center;
-    margin: 40px 0;
+    margin: 55px 0 40px 0;
 }
 
 .audit_stage_list{
@@ -542,7 +543,7 @@ ul{
     font-size: 30px;
     font-weight: 700;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 60px;
     margin-bottom: 40px;
 }
 
@@ -576,7 +577,7 @@ ul{
     background-color: #fe9703;
     cursor: pointer;
     padding: 15px 70px;
-    margin: 35px 0 50px 0;
+    margin: 35px 0 55px 0;
 }
 .audit_report_btn:hover{
     background-color: #fe7903;
@@ -598,8 +599,8 @@ ul{
 .audit_outsorse_title{
     font-size: 30px;
     font-weight: 700;
-    padding-top: 50px;
-    margin-bottom: 40px;
+    padding-top: 45px;
+    margin-bottom: 35px;
     color:#ffffff;
     max-width: 700px;
 }
@@ -623,7 +624,7 @@ ul{
     font-weight: 700;
     max-width: 561px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 60px;
     margin-bottom: 40px;
 }
 
@@ -671,7 +672,7 @@ ul{
 }
 
 .review_title{
-    padding-top: 50px;
+    padding-top: 60px;
     margin-bottom: 40px;
     font-size: 30px;
     font-weight: 700;
@@ -717,7 +718,7 @@ ul{
     width: 190px;
     height:280px;
     position: absolute;
-    background-color: rgba(246, 194, 120, 1);
+    background-color: rgba(254, 151, 3, 0.5);
     opacity: 0;
 }
 
@@ -736,7 +737,7 @@ ul{
 
 
 .sout_heading{
-    background: url("/img/sout-heading-bg.png") no-repeat top center;
+    background: url("/img/sout-heading-bg.png") no-repeat center;
 }
 
 .sub_title{
@@ -747,7 +748,7 @@ ul{
     font-weight: 700;
     border-bottom: 3px solid #fe9703;
     margin-left: 75px;
-    margin-bottom: 25px;
+    margin-bottom: 35px;
 }
 
 .sout_advantage{
@@ -879,6 +880,7 @@ ul{
     padding-left: 15px;
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
+    line-height: 1.2;
 }
 
 .evaluate_btn{
@@ -896,7 +898,7 @@ ul{
 }
 
 .evaluate_btn:hover{
-    background-color: #e48804;
+    background-color: #016ea5;
     transition: .5s;
 }
 
