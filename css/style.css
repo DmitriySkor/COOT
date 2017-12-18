@@ -261,6 +261,96 @@ ul{
     text-decoration: underline;
 }
 
+.min_trud {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 207px;
+    max-height: 55px;
+    font-size: 11px;
+    color:#d5d9d9;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.footer_services a{
+    text-decoration: none;
+}
+
+
+.footer_services a:hover{
+    text-decoration: none;
+    color: #ffffff;
+    transition: .5s;
+}
+
+
+.min_trud img{
+    width: 52px;
+    height: 54px;
+}
+
+.min_trud p{
+    flex-direction: column;
+    margin-left: 5px;
+    margin-bottom: 0;
+    align-items: center;
+    display: flex;
+}
+
+.fstz {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 211px;
+    max-height: 55px;
+    font-size: 11px;
+    color:#d5d9d9;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.fstz-img{
+    background-image: url("/img/fstz-color.png");
+    background-size: 76px 81px;
+    background-repeat: no-repeat;
+}
+
+
+.fstz-img img{
+    width: 76px;
+    height: 81px;
+    opacity: 1;
+}
+
+.fstz:hover img{
+    opacity: 0;
+    transition: .5s;
+}
+
+.fstz p{
+    flex-direction: column;
+    margin-bottom: 0;
+    align-items: center;
+    display: flex;
+}
+
+.rosakr{
+    background-image: url(/img/rosakr_bottom.png);
+    background-size: 125px auto;
+    background-repeat: no-repeat;
+    background-position: 1px 44%;
+    margin-left: 10px;
+}
+
+.rosakr:hover img{
+    opacity: 0;
+    transition: .5s;
+}
+
+
+
+
 /*----------------------------------------END FOOTER------------------------------------------------------------*/
 
 
