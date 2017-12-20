@@ -635,3 +635,16 @@ a.menu_ingredient:hover{
         opacity: 0;
     }
 }
+
+
+.menu_bl9_button_1,
+.menu_bl9_button_2,
+.menu_bl9_button_3,
+.menu_bl9_button_4,
+.menu_bl9_button_5,
+.menu_bl9_button_6,
+.menu_bl9_button_7
+{
+    /*overflow: hidden;*/
+    position: relative;
+}

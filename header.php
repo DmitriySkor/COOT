@@ -62,25 +62,25 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mr-auto">
 
-                            <li class="nav-item">
+                            <li class="nav-item menu_bl9_button_1">
                                 <a class="menu_ingredient menu_ingredient_right_border" href="home.php">Главная</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item menu_bl9_button_2">
                                 <a class="menu_ingredient menu_ingredient_right_border menu_upper" href="sout.php">Соут</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item menu_bl9_button_3">
                                 <a class="menu_ingredient menu_ingredient_right_border ebany_cl" href="control.php">Произв. контроль</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item menu_bl9_button_4">
                                 <a class="menu_ingredient menu_ingredient_right_border ebany_cl2" href="safety.php">Охрана труда</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item menu_bl9_button_5">
                                 <a class="menu_ingredient menu_ingredient_right_border" href="index.php">Новости</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item menu_bl9_button_6">
                                 <a class="menu_ingredient menu_ingredient_right_border" href="aboutus.php">О компании</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item menu_bl9_button_7">
                                 <a class="menu_ingredient menu_kontacts"href="contact.php">Контакты</a>
                             </li>
 
