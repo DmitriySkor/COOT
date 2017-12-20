@@ -11,15 +11,22 @@
 <!--                <a href="#" target="_blank"><img src="/img/mintrud.png" alt="Министерство труда и социальной защиты России" width="165px"></a>-->
 <!--                <a href="#" target="_blank"><img src="/img/rosakr_bottom.png" alt="Росаккредитация" width="165px"></a>-->
 <!--                <a href="#" target="_blank"><img src="/img/fstz.png" alt="Федеральная служба по труду и занятости" width="165"></a>-->
-                <a href="#" target="_blank">
-                    <img src="/img/min-trud-bw.png" alt="Фонд социального страхования">
+                <a href="#" target="_blank" class="min_trud">
+                    <p class="min_trud_img"><img src="/img/fondstr_logo_grey.png" alt="Фонд социального страхования"></p>
+                    <p>министерство труда и социальной защиты российской федерации</p>
                 </a>
-                <a href="#" target="_blank">
-                    <img src="/img/rosakr-bw.png" alt="Фонд социального страхования" width="169">
+                <a href="#" target="_blank" class="fstz">
+                    <p class="fstz-img"><img src="/img/fstz-bw.png" alt="Фонд социального страхования" ></p>
+                    <p>федеральная служба по труду и занятости</p>
                 </a>
-                <a href="#" target="_blank">
-                    <img src="/img/fstz-bw.png" alt="Фонд социального страхования" >
+                <a href="#" target="_blank" class="rosakr">
+                    <img src="/img/rosakr-bw.png" alt="Фонд социального страхования" width="115">
                 </a>
+                <a href="#" target="_blank" class="fss">
+                    <p class="fss-img"><img src="/img/fss-bw.png" alt="Фонд социального страхования" width="120" ></p>
+                    <p>фонд социального страхования российской федерации</p>
+                </a>
+
             </div>
             <div class="footer_contacts">
                 <p class="ftel">+7(4852) 73-72-68</p>
@@ -30,7 +37,7 @@
         </div>
         <div class="copyright">
             <p><a href="#">Политика конфиденциальности</a></p>
-            <p class="dev">Разработка сайта - <a href="#">AIDA</a></p>
+            <p class="dev">Разработка сайта - <a href="http://www.akirov.ru">AIDA</a></p>
             <p>&copy 2016-2017</p>
         </div>
     </div>

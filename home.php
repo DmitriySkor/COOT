@@ -24,7 +24,7 @@
                         для сотрудников промышленных предприятий и иных компаний, а также оценить качество организации
                         надлежащих условий для выполнения тех или иных должностных обязанностей.
                     </p>
-                    <a class="button_orange" href="#"><span>Подробнее</span> <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a class="button_orange" href="sout.php"><span>Подробнее</span> <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@
                         Аутсорсинг охраны труда позволяет более эффективно выполнять работу в области охраны труда и
                         сократить нагрузку на бюджет Организации.
                     </p>
-                    <a class="button_orange" href="#"><span>Подробнее</span> <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a class="button_orange" href="safety.php"><span>Подробнее</span> <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
             </div>
             <div class="col-md-6">

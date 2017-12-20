@@ -17,7 +17,7 @@
 <div class="audit_for_section">
     <div class="container">
         <div class="audit_for">
-            <h2 class="audit_for_title">Для кого мы проводим аудит</h2>
+            <h2 class="audit_for_title safety_audit_title">Для кого мы проводим аудит</h2>
         </div>
         <div class="audit_for_list">
             <div class="audit_for_item">

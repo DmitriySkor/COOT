@@ -19,7 +19,7 @@
     <div class="container">
         <div class="header">
             <div class="logo">
-                <a href="#">
+                <a href="home.php">
                     <img src="/img/logo.png" alt="Охрана и безопасность труда" width="67" height="64">
                     <ul>
                         <li class="logo_text">Охрана и безопасность труда</li>
@@ -29,7 +29,7 @@
                 </a>
             </div>
             <div class="gov_services">
-                <a href="#" target="_blank"><img src="/img/mintrud.png"
+                <a href="#" target="_blank" class="gov_services_mintrud"><img src="/img/new-mintrud.png"
                                                  alt="Министерство труда и социальной защиты России" width="165px"></a>
                 <a href="#" target="_blank"><img src="/img/rosakr_top.png" alt="Росаккредитация" width="145px"></a>
                 <a href="#" target="_blank"><img src="/img/fstz.png" alt="Федеральная служба по труду и занятости"
@@ -46,24 +46,6 @@
     </div>
 </div>
 <!-- END HEADER -->
-
-<!--<div class="menu_section">-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!--            <div class="col-md-12">-->
-<!--                <div class="main_menu">-->
-<!--                    <a class="menu_ingredient" href="home.php">Главная</a>-->
-<!--                    <a class="menu_ingredient menu_upper" href="sout.php">Соут</a>-->
-<!--                    <a class="menu_ingredient ebany_cl" href="control.php">Произв. контроль</a>-->
-<!--                    <a class="menu_ingredient" href="safety.php">Охрана труда</a>-->
-<!--                    <a class="menu_ingredient" href="index.php">Новости</a>-->
-<!--                    <a class="menu_ingredient" href="aboutus.php">О компании</a>-->
-<!--                    <a class="menu_ingredient menu_kontacts"href="contact.php">Контакты</a>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</div>-->
 
 <div class="menu_section">
     <div class="container">

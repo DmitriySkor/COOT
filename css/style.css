@@ -173,7 +173,7 @@ ul{
 .news img{
     width: 100%;
     max-width: 760px;
-    height: 340px;
+    max-height: 340px;
 }
 
 .news_caption{
@@ -344,14 +344,14 @@ ul{
 
 .fstz-img{
     background-image: url("/img/fstz-color.png");
-    background-size: 76px 81px;
+    background-size: 76px 75px;
     background-repeat: no-repeat;
 }
 
 
 .fstz-img img{
     width: 76px;
-    height: 81px;
+    height: 75px;
     opacity: 1;
 
 }
@@ -533,7 +533,7 @@ ul{
     padding: 20px 44px 20px 54px ;
     border-radius: 4px;
     margin-top: 100px;
-    margin-bottom: 60px;
+    margin-bottom: 80px;
 }
 
 .controls_description_btn:hover{
@@ -572,14 +572,17 @@ ul{
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    margin-top: 75px;
-    margin-bottom: 80px;
+    margin-bottom: 50px;
 }
 
 .audit_for_title{
     font-size: 30px;
     font-weight: 700;
     text-align: center;
+}
+
+.safety_audit_title{
+    margin-top: 60px;
 }
 
 .audit_for_list{
@@ -619,8 +622,8 @@ ul{
     color: #ffffff;
     font-size: 30px;
     font-weight: 700;
-    padding-top: 50px;
-    margin-bottom: 40px;
+    padding-top: 60px;
+    margin-bottom: 30px;
 }
 
 .why_audit_text{
@@ -653,7 +656,7 @@ ul{
 }
 
 .why_audit{
-    padding-bottom: 54px;
+    padding-bottom: 55px;
 }
 
 .audit_stage{
@@ -904,7 +907,7 @@ ul{
 
 .sout_heading{
     background: url("/img/sout-heading-bg.png") no-repeat center;
-    padding-bottom: 50px;
+    padding-bottom: 45px;
 }
 
 .sout_heading .heading_title{
@@ -936,7 +939,7 @@ ul{
 
 .what_sout_section{
     background-color: #eae7e2;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
 }
 
 .what_sout{
@@ -949,7 +952,7 @@ ul{
 .what_sout_title{
     font-size: 30px;
     font-weight: 700;
-    margin-top: 50px;
+    margin-top: 60px;
     margin-bottom: 35px;
 }
 
@@ -986,7 +989,7 @@ ul{
     color: #ffffff;
     font-size: 30px;
     font-weight: 700;
-    padding-top: 50px;
+    padding-top: 60px;
     margin-bottom: 40px;
 }
 
@@ -994,7 +997,7 @@ ul{
     width: 100%;
     max-width: 730px;
     color: #ffffff;
-    padding-bottom: 50px;
+    padding-bottom: 60px;
 }
 
 .why_sout_text p{
@@ -1011,7 +1014,7 @@ ul{
 .evaluate_title{
     font-size: 30px;
     font-weight: 700;
-    padding-top: 50px;
+    padding-top: 60px;
     margin-bottom: 40px;
     text-align: center;
 }
@@ -1115,7 +1118,7 @@ ul{
     color: #ffffff;
     font-size: 30px;
     font-weight: 700;
-    padding-top: 50px;
+    padding-top: 60px;
     margin-bottom: 40px;
 }
 

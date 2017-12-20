@@ -13,7 +13,7 @@
             <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> Бесплатный выезд эксперта</p>
         </div>
         <div class="wrap_btn">
-            <button class="control_heading_btn">Связаться со специалистом</button>
+            <button class="control_heading_btn" data-toggle="modal" data-target="#exampleModal">Связаться со специалистом</button>
         </div>
     </div>
 </div>
@@ -304,5 +304,24 @@
     </div>
 </div>
 
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form action="#">
+                    <input type="tel" name="tel" id="tel1" placeholder="Номер телефона">
+                    <button class="modal_button"></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
 
 <?php include_once "footer.php"; ?>
+
+

@@ -45,7 +45,9 @@
     bottom: 397px;
 }
 
-
+.footer_services{
+    flex-wrap: wrap;
+}
 
 }
 
@@ -122,6 +124,10 @@
     .evaluate_stage_list > .fa-reply {
         left: 0px;
         bottom: 397px;
+    }
+
+    .footer_services{
+        flex-wrap: wrap;
     }
 }
 
@@ -200,6 +206,9 @@
         order: 10
     }
 
+    .footer_services{
+        flex-wrap: wrap;
+    }
 
 }
 
@@ -317,6 +326,14 @@
 
     .evaluate_stage_list > .fa-reply {
         display: none;
+    }
+
+    .footer_services{
+        flex-direction: column;
+    }
+
+    .footer_services a{
+        margin-bottom: 10px;
     }
 }
 
