@@ -313,9 +313,19 @@
                 </button>
             </div>
             <div class="modal-body">
-                <form action="#" class="modal_form">
-                    <input type="tel" class="modal-tel" name="tel" id="tel1" placeholder="Номер телефона:">
-                    <button class="modal_button">Отправить</button>
+                <form class="modal_form">
+                    <div class="form-group">
+                        <input type="tel" class="form-control" id="inputAddress" placeholder="Номер телефона:">
+                    </div>
+
+                    <div class="form-group">
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input class="form-check-input" type="checkbox" checked> Я согласен с <a href="#">условиями обработки персональных данных</a>
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="contact1_button">Отправить</button>
                 </form>
             </div>
         </div>
