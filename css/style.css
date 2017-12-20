@@ -459,19 +459,19 @@ ul{
     color:#fe9703;
 }
 
-.control_heading_btn{
-    color: #ffffff;
-    background-color: #fe9703;
-    border: none;
-    cursor: pointer;
-    font-size: 24px;
-    text-transform: uppercase;
-    padding: 20px 30px;
-    border-radius: 4px;
-    margin-top: 80px;
-    margin-bottom: 100px;
-    outline: none;
-}
+/*.control_heading_btn{*/
+    /*color: #ffffff;*/
+    /*background-color: #fe9703;*/
+    /*border: none;*/
+    /*cursor: pointer;*/
+    /*font-size: 24px;*/
+    /*text-transform: uppercase;*/
+    /*padding: 20px 30px;*/
+    /*border-radius: 4px;*/
+    /*margin-top: 80px;*/
+    /*margin-bottom: 100px;*/
+    /*outline: none;*/
+/*}*/
 
 .control_heading_btn:hover{
     background-color:#006699;
