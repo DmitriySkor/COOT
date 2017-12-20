@@ -313,9 +313,9 @@
                 </button>
             </div>
             <div class="modal-body">
-                <form action="#">
-                    <input type="tel" name="tel" id="tel1" placeholder="Номер телефона">
-                    <button class="modal_button"></button>
+                <form action="#" class="modal_form">
+                    <input type="tel" class="modal-tel" name="tel" id="tel1" placeholder="Номер телефона:">
+                    <button class="modal_button">Отправить</button>
                 </form>
             </div>
         </div>

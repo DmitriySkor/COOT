@@ -6,6 +6,13 @@ ul{
     list-style: none;
 }
 
+button:active, button:focus {
+    outline: none !important;
+}
+button::-moz-focus-inner {
+    border: 0 !important;
+}
+
 /*-----------------------------------------HEADER------------------------------------------------------------------*/
 
 .header{
@@ -1143,6 +1150,36 @@ ul{
 /*-----------------------------------------END SOUT PAGE-------------------------------------------*/
 
 
+/*------------------------------MODAL--------------------------------------------------------------*/
+
+.modal-content{
+
+}
+
+.modal-header{
+    border: none;
+}
+
+.modal-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.modal_form{
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-tel{
+
+}
+
+.modal_button{
+
+}
+
+/*------------------------------END MODAL--------------------------------------------------------------*/
 
 
 
