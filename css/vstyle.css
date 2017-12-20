@@ -648,3 +648,32 @@ a.menu_ingredient:hover{
     /*!*overflow: hidden;*!*/
     /*position: relative;*/
 /*}*/
+
+
+.header_btn,
+.why_audit_btn,
+.audit_report_btn,
+.contact1_button{
+    position: relative;
+    overflow: hidden;
+}
+
+/*Блок с картой*/
+
+.maps_bg{
+    background-color: #eae7e2;
+}
+
+.maps_inf{
+    width: 100%;
+    height: 603px;
+    background-image: url(../img/maps_bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+
+.maps_h2{
+    text-align: center;
+    padding: 55px 0 0;
+}

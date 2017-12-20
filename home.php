@@ -87,7 +87,18 @@
     </div>
 </div>
 
+<div class="maps_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="maps_h2">Мы работаем по всей России</h2>
+                <div class="maps_inf">
 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <?php include_once "footer.php"; ?>
 
 
