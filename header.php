@@ -30,10 +30,10 @@
             </div>
             <div class="gov_services">
                 <a href="#" target="_blank" class="gov_services_mintrud"><img src="/img/new-mintrud.png"
-                                                 alt="Министерство труда и социальной защиты России" width="165px"></a>
+                                                 alt="Министерство труда и социальной защиты России" width="160px"></a>
                 <a href="#" target="_blank"><img src="/img/rosakr_top.png" alt="Росаккредитация" width="145px"></a>
                 <a href="#" target="_blank"><img src="/img/fstz.png" alt="Федеральная служба по труду и занятости"
-                                                 width="165"></a>
+                                                 width="170"></a>
             </div>
             <div class="header_contacts">
                 <ul class="contacts_list">
