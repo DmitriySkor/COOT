@@ -31,7 +31,7 @@
                     участках работ на территории заказчика);</li>
                 <li>- транспорт.</li>
                 </ul>
-            <button class="controls_description_btn">Узнать подробнее</button>
+            <button class="control_heading_btn">Узнать подробнее</button>
         </div>
     </div>
 </div>
