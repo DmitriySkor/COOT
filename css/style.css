@@ -746,7 +746,7 @@ ul{
     background-color: #fe9703;
     cursor: pointer;
     padding: 15px 70px;
-    margin: 35px 0 55px 0;
+    margin: 35px 0 80px 0;
 }
 .audit_report_btn:hover{
     background-color: #fe7903;
@@ -756,6 +756,7 @@ ul{
 
 .audit_outsors_section {
     background: url("/img/audit-outsors-bg.png") bottom;
+    padding-bottom: 10px;
 }
 .audit_outsors_text {
     width: 100%;
@@ -769,7 +770,7 @@ ul{
     font-size: 30px;
     font-weight: 700;
     padding-top: 45px;
-    margin-bottom: 35px;
+    margin-bottom: 30px;
     color:#ffffff;
     max-width: 700px;
 }
