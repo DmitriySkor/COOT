@@ -10,7 +10,7 @@
             <p><i class="fa fa-angle-double-right" aria-hidden="true"></i> Сроки от 2 дней</p>
         </div>
         <div class="wrap_btn">
-            <button class="control_heading_btn">Связаться со специалистом</button>
+            <button class="control_heading_btn" data-toggle="modal" data-target="#safety1">Связаться со специалистом</button>
         </div>
     </div>
 </div>
@@ -63,7 +63,7 @@
                 </p>
             </div>
             <div class="audit_wrap_btn">
-                <button class="why_audit_btn">Связаться со специалистом</button>
+                <button class="why_audit_btn" data-toggle="modal" data-target="#safety2">Связаться со специалистом</button>
             </div>
         </div>
     </div>
@@ -119,7 +119,7 @@
                 <li><i class="fa fa-angle-double-right" aria-hidden="true"></i>
                     План мероприятий по устранению выявленных нарушений.</li>
             </ul>
-            <button class="audit_report_btn">Получить отчет</button>
+            <button class="audit_report_btn" data-toggle="modal" data-target="#safety3">Получить отчет</button>
         </div>
     </div>
 </div>
@@ -211,15 +211,23 @@
         <div class="reviews">
             <div class="review review1">
                 <a href="#"><img src="/img/magnifier.png"></a>
+                <a href="/img/review1.png" data-fancybox data-caption="My caption">
+                    <img src="/img/magnifier.png" alt="" />
             </div>
             <div class="review review2">
                 <a href="#"><img src="/img/magnifier.png"></a>
+                <a href="/img/review2.png" data-fancybox data-caption="My caption">
+                    <img src="/img/magnifier.png" alt="" />
             </div>
             <div class="review review3">
                 <a href="#"><img src="/img/magnifier.png"></a>
+                <a href="/img/review3.png" data-fancybox data-caption="My caption">
+                    <img src="/img/magnifier.png" alt="" />
             </div>
             <div class="review review4">
                 <a href="#"><img src="/img/magnifier.png"></a>
+                <a href="/img/review4.png" data-fancybox data-caption="My caption">
+                    <img src="/img/magnifier.png" alt="" />
             </div>
 
         </div>
@@ -227,3 +235,84 @@
 </div>
 
 <?php include_once "footer.php"; ?>
+<div class="modal fade" id="safety1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="modal_form">
+                    <div class="form-group">
+                        <input type="tel" class="form-control" id="inputAddress" placeholder="Номер телефона:">
+                    </div>
+
+                    <div class="form-group">
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input class="form-check-input" type="checkbox" checked > Я согласен с <a href="#" target="_blank">условиями обработки персональных данных</a>
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="contact1_button">Отправить</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="safety2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="modal_form">
+                    <div class="form-group">
+                        <input type="tel" class="form-control" id="inputAddress" placeholder="Номер телефона:">
+                    </div>
+
+                    <div class="form-group">
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input class="form-check-input" type="checkbox" checked > Я согласен с <a href="#" target="_blank">условиями обработки персональных данных</a>
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="contact1_button">Отправить</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="safety3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="modal_form">
+                    <div class="form-group">
+                        <input type="tel" class="form-control" id="inputAddress" placeholder="Номер телефона:">
+                    </div>
+
+                    <div class="form-group">
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input class="form-check-input" type="checkbox" checked > Я согласен с <a href="#" target="_blank">условиями обработки персональных данных</a>
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="contact1_button">Отправить</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

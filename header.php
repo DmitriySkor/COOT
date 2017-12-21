@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="fonts/lato/stylesheet.css">
+    <link rel="stylesheet" href="libs/fancybox/dist/jquery.fancybox.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/vstyle.css">
     <link rel="stylesheet" href="css/media.css">
@@ -40,7 +41,7 @@
                     <li class="tel">+7(4852) 73-72-68</li>
                     <li class="addr">г. Ярославль, проспект Октября, дом 88, офис 102, пом. 2.</li>
                 </ul>
-                <button type="button" class="header_btn">Заказать звонок <span class="arrow"></button>
+                <button type="button" class="header_btn" data-toggle="modal" data-target="#header1">Заказать звонок <span class="arrow"></button>
             </div>
         </div>
     </div>
@@ -86,6 +87,34 @@
 
                     </div>
                 </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="header1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="modal_form">
+                    <div class="form-group">
+                        <input type="tel" class="form-control" id="inputAddress" placeholder="Номер телефона:">
+                    </div>
+
+                    <div class="form-group">
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input class="form-check-input" type="checkbox" checked > Я согласен с <a href="#" target="_blank">условиями обработки персональных данных</a>
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="contact1_button">Отправить</button>
+                </form>
             </div>
         </div>
     </div>

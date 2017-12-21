@@ -1152,31 +1152,9 @@ button::-moz-focus-inner {
 
 /*------------------------------MODAL--------------------------------------------------------------*/
 
-.modal-content{
-
-}
-
-.modal-header{
-    border: none;
-}
-
-.modal-body{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
-
-.modal_form{
-    display: flex;
-    flex-direction: column;
-}
 
 .modal-tel{
  outline-color: #6f42c1;
-}
-
-.modal_button{
-
 }
 
 /*------------------------------END MODAL--------------------------------------------------------------*/
