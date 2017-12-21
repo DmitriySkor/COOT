@@ -685,3 +685,7 @@ a.menu_ingredient:hover{
 .modal_form .contact1_button{
     border-radius: 4px;
 }
+
+.confidential {
+    padding: 60px 0 80px;
+}
