@@ -120,7 +120,7 @@
                         +7(4852) 73-72-68
                         +7(4852) 73-86-58
                     </p>
-                    <button class="evaluate_btn">Оставить заявку</button>
+                    <button class="evaluate_btn" data-toggle="modal" data-target="#exampleModal-4">Оставить заявку</button>
                 </div>
                 <i class="fa fa-angle-right first_angle" aria-hidden="true"></i>
                 <div class="evaluate_stage stage2">
