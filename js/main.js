@@ -137,5 +137,11 @@ function addElement(e) {
     this.appendChild(addDiv);
 }
 
+/*Fancy Box include*/
+
+    $("[data-fancybox]").fancybox({
+        // Options will go here
+    });
+
 
 

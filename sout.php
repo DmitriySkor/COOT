@@ -321,7 +321,7 @@
                     <div class="form-group">
                         <div class="form-check">
                             <label class="form-check-label">
-                                <input class="form-check-input" type="checkbox" checked> Я согласен с <a href="confidential.php" target="_blank"> условиями обработки персональных данных</a>
+                                <input class="form-check-input" type="checkbox" checked> Я согласен с <a href="confidential.php">условиями обработки персональных данных</a>
                             </label>
                         </div>
                     </div>
