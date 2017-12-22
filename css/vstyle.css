@@ -689,3 +689,27 @@ a.menu_ingredient:hover{
 .confidential {
     padding: 60px 0 80px;
 }
+
+/*Модальные окна*/
+.modal-header {
+    border-bottom: 1px solid transparent;
+}
+
+.modal-body {
+    position: relative;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 0 40px 40px;
+}
+
+.modal_form_h2 {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: #006699;
+}
+
+.modal_form_p {
+    font-size: 20px;
+    text-align: center;
+}
