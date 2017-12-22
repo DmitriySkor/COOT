@@ -209,25 +209,26 @@
     <div class="container">
         <h2 class="review_title">Отзывы о нашей работе</h2>
         <div class="reviews">
-            <div class="review review1">
+            <div class="review review1" data-toggle="modal">
                 <a href="#"><img src="/img/magnifier.png"></a>
                 <a href="/img/review1.png" data-fancybox data-caption="My caption">
                     <img src="/img/magnifier.png" alt="" />
             </div>
-            <div class="review review2">
+            <div class="review review2" data-toggle="modal">
                 <a href="#"><img src="/img/magnifier.png"></a>
                 <a href="/img/review2.png" data-fancybox data-caption="My caption">
                     <img src="/img/magnifier.png" alt="" />
             </div>
-            <div class="review review3">
+            <div class="review review3" data-toggle="modal">
                 <a href="#"><img src="/img/magnifier.png"></a>
                 <a href="/img/review3.png" data-fancybox data-caption="My caption">
                     <img src="/img/magnifier.png" alt="" />
             </div>
-            <div class="review review4">
+            <div class="review review4" data-toggle="modal">
                 <a href="#"><img src="/img/magnifier.png"></a>
                 <a href="/img/review4.png" data-fancybox data-caption="My caption">
                     <img src="/img/magnifier.png" alt="" />
+                </a>
             </div>
 
         </div>
