@@ -1,4 +1,4 @@
-//Модальное окно  №0 кнопка в хедере Заказать звонок
+<!--//Модальное окно  №0 кнопка в хедере Заказать звонок-->
 <div class="modal fade" id="header1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -29,7 +29,7 @@
     </div>
 </div>
 
-//Модальное окно №1 кнопка Связаться со специалистом
+<!--//Модальное окно №1 кнопка Связаться со специалистом-->
 <div class="modal fade" id="exampleModal-1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -63,7 +63,7 @@
     </div>
 </div>
 
-//Модальное окно  №2 кнопка Узнать подробнее
+<!--//Модальное окно  №2 кнопка Узнать подробнее-->
 <div class="modal fade" id="exampleModal-2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -97,7 +97,7 @@
     </div>
 </div>
 
-//Модальное окно  №3 кнопка Получить  ответ
+<!--//Модальное окно  №3 кнопка Получить  ответ-->
 <div class="modal fade" id="safety3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -134,7 +134,7 @@
     </div>
 </div>
 
-//Модальное окно  №4 кнопка Оставить заявку
+<!--//Модальное окно  №4 кнопка Оставить заявку-->
 <div class="modal fade" id="exampleModal-4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
