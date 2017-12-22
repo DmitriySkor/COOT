@@ -212,11 +212,103 @@
             <div class="row">
                 <div class="col-md-12">
                     <h2 class="maps_h2">Мы работаем по всей России</h2>
-                    <div class="maps_inf">
+                    <div class="s_map" id="s_main">
 
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function(){
+            var cities = {
+                "Белгород": [260, 23],
+                "Курск": [252, 30],
+                "Воронеж": [268, 40],
+                "Липецк": [259, 48],
+                "Москва": [231, 60],
+
+                "Рязань": [250, 60],
+                "Тверь": [214, 60],
+                "Санкт-Петербург": [176, 62],
+                "Владимир": [239, 75],
+                "Саратов": [289, 76],
+
+                "Энгельс": [292, 79],
+                "Пенза": [276, 77],
+                "Череповец": [203, 80],
+                "Саранск": [266, 85],
+                "Иваново": [237, 85],
+
+                "Балаково": [292, 86],
+                "Кострома": [227, 89],
+                "Вологда": [213, 93],
+                "Ульяновск": [278, 94],
+                "Чебоксары": [264, 98],
+
+                "Тольятти": [287, 98],
+                "Йошкар-Ола ": [259, 109],
+                "Казань": [271, 110],
+                "Нижнекамск": [274, 116],
+                "Набережные Челны": [273, 117],
+
+                "Альметьевск": [281, 116],
+                "Зеленодольск": [272, 101],
+                "Дмитровград": [278, 102],
+                "Самара": [292, 104],
+                "Оренбург": [318, 116],
+
+                "Мончегорск": [133, 134],
+                "Северодвинск": [175, 135],
+                "Архангельск": [183, 142],
+                "Сыктывкар": [227, 146],
+                "Воркута": [199, 221],
+            };
+            var city = [];
+            for (i in cities) {
+                city.push(i);
+            }
+
+            for (var i = 0; i < city.length; i++) {
+                var icon = document.createElement("img");
+                icon.className = "s_icon";
+                icon.id = "icon" + i;
+                icon.src = "img/marker2.png";
+                icon.style.top = cities[city[i]][0] + "px";
+                icon.style.left = cities[city[i]][1] + "px";
+                document.getElementById('s_main').insertBefore(icon, document.body.firstchild);
+            }
+
+            for (var i = 0; i < city.length; i++) {
+                var desc = document.createElement("div");
+                desc.className = "s_desc";
+                desc.id = "desc" + i;
+
+                desc.style.top = cities[city[i]][0] - 25 + "px";
+                desc.innerHTML = city[i];
+                document.getElementById('s_main').insertBefore(desc, document.body.firstchild);
+                var width = $('#desc' + i).width()/ 2;
+                $('#desc' + i).css("left", cities[city[i]][1] - width + 10 + "px");
+            }
+
+
+            $( ".s_map" ).on('mouseenter', 'img', function() {
+                var id = this.id
+                var i = id.substr(4);
+                $('#desc' + i).show();
+            });
+            $( ".s_map" ).on('mouseleave', 'img', function() {
+                var id = this.id
+                var i = id.substr(4);
+                $('#desc' + i).hide();
+            });
+        });
+
+
+
+
+    </script>
 <?php include_once "footer.php"; ?>

@@ -8,9 +8,7 @@
                 <p>ОГРН: 1177627015477</p>
             </div>
             <div class="footer_services">
-<!--                <a href="#" target="_blank"><img src="/img/mintrud.png" alt="Министерство труда и социальной защиты России" width="165px"></a>-->
-<!--                <a href="#" target="_blank"><img src="/img/rosakr_bottom.png" alt="Росаккредитация" width="165px"></a>-->
-<!--                <a href="#" target="_blank"><img src="/img/fstz.png" alt="Федеральная служба по труду и занятости" width="165"></a>-->
+
                 <a href="#" target="_blank" class="min_trud">
                     <p class="min_trud_img"><img src="/img/fondstr_logo_grey.png" alt="Фонд социального страхования"></p>
                     <p>министерство труда и социальной защиты российской федерации</p>

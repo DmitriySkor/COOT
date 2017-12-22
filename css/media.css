@@ -884,3 +884,10 @@
         display: none;
     }
 }
+
+/*---------CLASS FOR MAP-----------*/
+@media screen and (max-width: 767px) {
+    .maps_bg {
+        display: none;
+    }
+}
